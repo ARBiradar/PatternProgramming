@@ -345,22 +345,11 @@ If you know a pattern frequently asked in interviews, feel free to add it.
 ## 📬 Author
 
 **Adarsh Biradar**
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
-🔗 LinkedIn: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+📧 Email: [adarshbiradar56@gmail.com](mailto: adarshbiradar56@gmail.com)
+🔗 LinkedIn: [[https://www.linkedin.com/in/adarsh-biradar-87141a261/]](https://www.linkedin.com/in/adarsh-biradar-87141a261/)
 
 ---
 
 ⭐ If this repository helped you, please **star ⭐ the repo**!
 
-```
-
----
-
-### ✅ Next things I can help you with:
-- Folder structure for patterns  
-- Naming convention interviewers like  
-- Add **pattern-wise explanation files**
-- Create **README badges & visuals**
-
-Just tell me 👍
 ```
