@@ -1,13 +1,13 @@
----
 
-```md
+
+
 # ⭐ Pattern Programming (Interview-Oriented)
 
 This repository contains a **comprehensive collection of pattern programming problems** commonly asked in **coding interviews**, **college exams**, and **technical assessments**.
 
 The goal of this project is to strengthen **logical thinking**, **loop mastery**, and **problem-solving skills** by practicing a wide variety of patterns.
 
----
+
 
 ## 📌 What is Pattern Programming?
 
